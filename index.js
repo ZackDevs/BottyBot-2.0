@@ -29,6 +29,7 @@ const antiSpam = new AntiSpam({
     ignoredUsers: ['359731859409862656'], // Array of User IDs that get ignored.
     // And many more options... See the documentation.
 });
+app.listen(process.env.PORT || 3000);
 
 bot.on('ready', () => {
     console.log(`Logged in as ${bot.user.tag}.`);
