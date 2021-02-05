@@ -1,4 +1,6 @@
-# BottyBot-2.0
+## BottyBot-2.0
 This was my first try to make a discord bot lol don't mind being awful
 
-## Have a nice day
+### Have a nice day
+
+# I know that the bot token is the but idc
